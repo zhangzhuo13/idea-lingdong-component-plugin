@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhangzhuo13.idealingdongcomponentplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhangzhuo13.idealingdongcomponentplugin.MyBundle
 
 class MyApplicationService {
 
